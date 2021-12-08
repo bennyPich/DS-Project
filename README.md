@@ -14,7 +14,7 @@ You have the raw data that was only downloaded from the warehouse. Before buildi
 ## Project instructions
 1. Prepare the data  
   1.1. Open the files and look into the data.  
-  1.2. Check that recovery is calculated correctly. Using the training set, calculate recovery for the rougher.output.recovery feature. Find the MAE between your calculations          and  the feature values. Provide findings.  
+  1.2. Check that recovery is calculated correctly. Using the training set, calculate recovery for the rougher.output.recovery feature. Find the MAE between your calculations            and  the feature values. Provide findings.  
   1.3. Analyze the features not available in the test set. What are these parameters? What is their type?   
   1.4. Perform data preprocessing.  
 2. Analyze the data  
