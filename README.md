@@ -24,8 +24,9 @@ You have the raw data that was only downloaded from the warehouse. Before buildi
 3. Build the model   
   3.1. Write a function to calculate the final sMAPE value.   
   3.2. Train different models. Evaluate them using cross-validation. Pick the best model and test it using the test sample. Provide findings.   
-Use these formulas for evaluation metrics:  
 
+
+Use these formulas for evaluation metrics:  
 
 ![image](https://user-images.githubusercontent.com/58907638/145191725-dc33d624-af63-4969-8d04-0a7168481eee.png)
 
