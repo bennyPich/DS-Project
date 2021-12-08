@@ -27,3 +27,5 @@ You have the raw data that was only downloaded from the warehouse. Before buildi
 Use these formulas for evaluation metrics:  
 image
 image
+![image](https://user-images.githubusercontent.com/58907638/145191725-dc33d624-af63-4969-8d04-0a7168481eee.png)
+
